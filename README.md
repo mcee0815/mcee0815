@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @mcee0815
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on cool awesome projects
-- 📫 How to reach me ...
-
-<!---
-mcee0815/mcee0815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there 👋
+My name is Mike Corporan
+I'm a web developer from Long Island NY.I love building clean responsive websites. Most of my days are spent coding, improving existing codebase or learning new things from reading books and tech articles, I'm also seeking opportunities to contribute toward a development team. Thank you for visiting my Github profile! ☮️
